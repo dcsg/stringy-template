@@ -4,7 +4,10 @@
     "description": "Stringy and String Template together",
     "keywords": [
         "stringy",
-        "string template"
+        "string template",
+        "string-template",
+        "string-manipulation",
+        "string manipulation"
     ],
     "homepage": "https://github.com/dcsg/stringy-template",
     "license": "MIT",
