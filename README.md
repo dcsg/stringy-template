@@ -41,6 +41,7 @@ echo S::render(
 // "Hello, my name is Daniel Gomes."
 
 
+// Using conversion specifications from `sprintf`
 echo S::render(
     'I have {num%.1f} {fruit}.',
     ['num' => 1.5345, 'fruit' => 'oranges']
