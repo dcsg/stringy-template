@@ -1,0 +1,51 @@
+{
+    "name": "dcsg/stringy-template",
+    "type": "library",
+    "description": "Stringy and String Template together",
+    "keywords": [
+        "stringy",
+        "string template"
+    ],
+    "homepage": "https://github.com/dcsg/stringy-template",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Gomes",
+            "email": "hi@dcsg.me",
+            "homepage": "https://dcsg.me",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.2",
+        "danielstjules/stringy": "^3.1",
+        "nicmart/string-template": "^0.1.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "^8.0",
+        "squizlabs/php_codesniffer": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DCSG\\StringyTemplate\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\DCSG\\StringyTemplate\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "./vendor/bin/phpunit",
+        "check-style": "./vendor/bin/phpcs src tests",
+        "fix-style": "./vendor/bin/phpcbf src tests"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
