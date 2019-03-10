@@ -7,11 +7,11 @@
 [![Build Status](https://travis-ci.org/dcsg/stringy-template.svg?branch=master)](https://travis-ci.org/dcsg/stringy-template)
 [![StyleCI](https://github.styleci.io/repos/174796258/shield?branch=master)](https://github.styleci.io/repos/174796258)
 [![SymfonyInsight](https://insight.symfony.com/projects/e339c7bf-3d04-4e29-91e1-58a459525848/mini.svg)](https://insight.symfony.com/projects/e339c7bf-3d04-4e29-91e1-58a459525848)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=dcsg_stringy-template&metric=alert_status)](https://sonarcloud.io/dashboard?id=dcsg_stringy-template)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=dcsg_stringy-template&metric=coverage)](https://sonarcloud.io/dashboard?id=dcsg_stringy-template)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=dcsg_stringy-template&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=dcsg_stringy-template)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=dcsg_stringy-template&metric=bugs)](https://sonarcloud.io/dashboard?id=dcsg_stringy-template)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=dcsg_stringy-template&metric=security_rating)](https://sonarcloud.io/dashboard?id=dcsg_stringy-template)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=stringy-template&metric=alert_status)](https://sonarcloud.io/dashboard?id=stringy-template)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=stringy-template&metric=coverage)](https://sonarcloud.io/dashboard?id=stringy-template)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=stringy-template&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=stringy-template)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=stringy-template&metric=bugs)](https://sonarcloud.io/dashboard?id=stringy-template)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=stringy-template&metric=security_rating)](https://sonarcloud.io/dashboard?id=stringy-template)
 [![Total Downloads](https://poser.pugx.org/dcsg/stringy-template/downloads)](https://packagist.org/packages/dcsg/stringy-template)
 
 
