@@ -5,6 +5,9 @@ namespace Tests\DCSG\StringyTemplate;
 use DCSG\StringyTemplate\S;
 use PHPUnit\Framework\TestCase;
 
+/**
+ * @author Daniel Gomes <danielcesargomes@gmail.com>
+ */
 final class STest extends TestCase
 {
     public function testRenderWithOnlyOneReplacement(): void

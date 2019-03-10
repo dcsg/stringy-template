@@ -5,6 +5,9 @@ namespace DCSG\StringyTemplate;
 use StringTemplate\SprintfEngine;
 use Stringy\StaticStringy;
 
+/**
+ * @author Daniel Gomes <danielcesargomes@gmail.com>
+ */
 class S extends StaticStringy
 {
     /**
