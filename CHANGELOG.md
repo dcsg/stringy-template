@@ -21,6 +21,15 @@ Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) princip
 ### Security
 - Nothing
 
+## Replace outdated Stringy - 2020-01-28
+
+### Added
+- [voku/stringy](https://github.com/voku/Stringy#installation-via-composer-require)
+
+### Removed
+- [Stringy](https://github.com/danielstjules/Stringy)
+
+
 ## Initial Release - 2019-03-10
 
 ### Added

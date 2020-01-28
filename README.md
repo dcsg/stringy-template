@@ -15,7 +15,7 @@
 [![Total Downloads](https://poser.pugx.org/dcsg/stringy-template/downloads)](https://packagist.org/packages/dcsg/stringy-template)
 
 
-This Library provides a unified `S` Class that "glues" two amazing libraries. It integrates the [Stringy][link-stringy] library created by [Daniel St. Jules][link-stringy-author] and the [StringTemplate][link-string-template] Library create by [Nicolò Martini][link-string-template-author].
+This Library provides a unified `S` Class that "glues" two amazing libraries. It integrates the [voku/stringy][link-stringy version of the library originally created by [Daniel St. Jules][link-stringy-author] and the [StringTemplate][link-string-template] Library create by [Nicolò Martini][link-string-template-author].
 The **Stringy** Library is a **string manipulation** library, while the **String Template** is an engine to render string templates.
 
 This Library was created because in my projects I've been using both libraries and always ended up in having them integrated into a single class to make it's usage simpler.    
@@ -81,7 +81,7 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 [link-author]: https://github.com/dcsg
 [link-contributors]: ../../contributors
-[link-stringy]: https://github.com/danielstjules/Stringy
+[link-stringy]: https://github.com/voku/Stringy#installation-via-composer-require
 [link-stringy-author]: https://github.com/danielstjules
 [link-string-template]: https://github.com/nicmart/StringTemplate
 [link-string-template-author]: https://github.com/nicmart
